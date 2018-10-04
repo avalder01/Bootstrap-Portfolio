@@ -1,2 +1,2 @@
 # Bootstrap-Portfolio
-Boot strap Portfolio 
+Bootstrap Portfolio 
