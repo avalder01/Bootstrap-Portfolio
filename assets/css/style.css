@@ -1,6 +1,33 @@
 #bio-image {
-  height: 200px;
-  width: 150px;
-  margin-right: 10px;
+  height: 250px;
+  width: 200px;
+  /* margin-right: 10px; */
+  
+}
+
+body {
+  background-image: url("../images/concrete_seamless.png");
+}
+
+.navbar-brand {
+  background-color: #4aaaa5;
+}
+
+header {
+  border-bottom: 2px solid #cccccc;
+}
+
+.aboutMe {
+  color:#4aaaa5;
+}
+
+.footer {
+  background-color: #666666;
+  border-top: 7px solid #4aaaa5;
+  width: 100%; 
+}
+
+.footColor {
+  color: #cccccc;
   
 }
