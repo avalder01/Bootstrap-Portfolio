@@ -17,7 +17,7 @@ header {
   border-bottom: 2px solid #cccccc;
 }
 
-.aboutMe {
+.head {
   color:#4aaaa5;
 }
 
@@ -30,4 +30,16 @@ header {
 .footColor {
   color: #cccccc;
   
+}
+
+#submit{
+  background-color: #4aaaa5;
+  color: white;
+}
+
+.description{
+  
+  text-align: center;
+    background-color: #4aaaa5;
+    color: white
 }
