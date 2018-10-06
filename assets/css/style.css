@@ -1,8 +1,6 @@
 #bio-image {
   height: 250px;
   width: 200px;
-  /* margin-right: 10px; */
-  
 }
 
 body {
@@ -29,7 +27,6 @@ header {
 
 .footColor {
   color: #cccccc;
-  
 }
 
 #submit{
@@ -38,8 +35,13 @@ header {
 }
 
 .description{
-  
-  text-align: center;
-    background-color: #4aaaa5;
-    color: white
+position: absolute;
+width: 300px;
+top: 150px;
+padding: 8px;
+width: 300px;
+text-align: center;
+background-color: #4aaaa5;
+color: white 
 }
+
